@@ -1,4 +1,4 @@
-## Table of Contents
+## Table of Contents 2
 - [Articles & Videos](#articles--videos)
     * [The Product Manager Role](#the-product-manager-role) 
     * [Problem Definition](#problem-definition)
