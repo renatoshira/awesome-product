@@ -1,6 +1,3 @@
-# awesome-product
-A curated list of resources for digital product teams. Templates, tools, articles and videos
-
 ## Table of Contents
 - [Articles & Videos](#articles--videos)
     * [The Product Manager Role](#the-product-manager-role) 
