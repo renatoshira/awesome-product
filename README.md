@@ -32,7 +32,7 @@ A curated list of resources for digital product teams. Templates, tools, article
 - [Lean Personas by Adrian Howard](https://bit.ly/2UnAY1X) by MARTIN ERIKSSON
 
  ## Roadmap
- = [Ruthless Prioritization](https://bit.ly/2HIcsix) by Brandon Chu
+ - [Ruthless Prioritization](https://bit.ly/2HIcsix) by Brandon Chu
  - [How To Build A Product Roadmap Everyone Understands](https://bit.ly/2FOYCeK) by andrea saez
  - [The product roadmap that boosts innovation](https://bit.ly/2Va9PNi) by Janna Bastow  
  - [Before you plan your product roadmap](https://bit.ly/2UpFCfY) by DES TRAYNOR
