@@ -12,5 +12,8 @@ A curated list of resources for digital product teams. Templates, tools, article
     * Metrics and Data
     * Experiments
 - Tools
-- Templates
+- [Templates](https://github.com/renatoshira/awesome-product/blob/master/templates.md)
+   * Strategy
+   * General Product Management
+   * Launches & Announcements
 
