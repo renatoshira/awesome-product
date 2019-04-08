@@ -16,4 +16,5 @@ A curated list of resources for digital product teams. Templates, tools, article
    * Strategy
    * General Product Management
    * Launches & Announcements
+- [References & External Links](https://github.com/renatoshira/awesome-product/blob/master/references.md)
 
