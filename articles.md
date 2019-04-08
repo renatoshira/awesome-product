@@ -49,3 +49,6 @@
 - [Experiments at Airbnb](https://bit.ly/2yElw6f) by Airbnb team 
 - [A/B Test Planning: How to Build a Process that Works](https://bit.ly/2pZ28LZ) by Jaan-Matti Saul
 - [The golden rule of A/B testing: look beyond validation](https://bit.ly/2uBCejL) by SCOTT KAMINO
+
+### Problem Solving
+- [What is a 5 Whys?](https://stories.buffer.com/what-is-a-5-whys-9b22564a94ed) by Buffer Team
