@@ -6,3 +6,5 @@
   
 - [Product Manual](https://www.productmanual.co/)
   Curated resources for product people
+  
+- [Free Product Management Events Worldwide] (https://www.productschool.com/product-management-events/)
