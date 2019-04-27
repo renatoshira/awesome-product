@@ -3,6 +3,8 @@
 
 - [Spotify's Squad Goals Doc](https://coda.io/t/Spotifys-Squad-Goals-Doc_tOh8L_L3wXn/preview?useBack) in [Coda](https://coda.io)
 
+- [How to Split Equity & Vesting Period](http://aynuriev.com/how-to-register-company-usa/)
+
 ### General Product Management
 - [Product Development and Growth](https://coda.io/t/Product-Development-and-Growth_tak5CdzqJ75/preview?useBack) in [Coda](https://coda.io)
 
