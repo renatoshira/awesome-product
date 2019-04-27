@@ -21,6 +21,9 @@
 - [Creating Personas - A guide, not a template](https://bit.ly/2OGoLjJ) by Ben Ralph
 - [Lean Personas by Adrian Howard](https://bit.ly/2UnAY1X) by MARTIN ERIKSSON
 
+### Company Formation
+- [How to Split Equity & Vesting Period, plus USA formation](http://aynuriev.com/how-to-register-company-usa/)
+
 ### Roadmap
 - [Ruthless Prioritization](https://bit.ly/2HIcsix) by Brandon Chu
 - [How To Build A Product Roadmap Everyone Understands](https://bit.ly/2FOYCeK) by andrea saez
